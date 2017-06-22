@@ -30,7 +30,7 @@ public class Main {
 
             }
         }
-        System.out.println(Arrays.toString(arr));
+        System.out.println("Ваш массив в порядке возрастания : "+ Arrays.toString(arr));
     }
 
     public static void revers(int[] arr) {
@@ -50,7 +50,7 @@ public class Main {
 
             }
         }
-        System.out.println(Arrays.toString(arr));
+        System.out.println("Ваш массив в порядке убывания : " + Arrays.toString(arr));
     }
 
 }
